@@ -1,7 +1,7 @@
 # Stray Support
 This project focuses on the front end , as i am a beginner ,i just made  a simple one.
 
-The website is about a community that rescues and shelter stray pets that are in the streets,it is a demo so the all the links are dummy.
+The website is about a community that rescues and shelter stray pets that are in the streets,it is a demo so all the links are dummy.
 
 Hope you like the Project 😃
 
